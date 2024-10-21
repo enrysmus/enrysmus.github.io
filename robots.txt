@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enrysmus.github.io/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/app/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/assets/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/css/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/includes/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/item/enrysmus.txt.gz
+Sitemap: https://enrysmus.github.io/src/enrysmus.txt.gz
